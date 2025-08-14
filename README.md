@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Havvanur</h1>
 <h3 align="center">I am a Software Engineering student from Izmir University of Economics.</h3>
 
-- 🌱 I’m currently working on **Java , C#**
+- 🌱 I’m currently working with **Java , C#**
+-  🌱 I’m currently learning on **HTML, Css , JavaScript , PHP**
+
 
 - 📫 How to reach me **karakayahavvanur@gmail.com**
 
