@@ -2,8 +2,7 @@
 <h3 align="center">I am a Software Engineering student from Izmir University of Economics.</h3>
 
 - 🌱 I’m currently working with **Java , C#**
--  🌱 I’m currently learning on **HTML, Css , JavaScript , PHP**
-
+- 🌱 I’m currently learning on **HTML, Css , JavaScript , PHP**
 
 - 📫 How to reach me **karakayahavvanur@gmail.com**
 
