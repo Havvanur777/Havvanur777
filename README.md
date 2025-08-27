@@ -22,6 +22,5 @@
   src="https://github-readme-stats.vercel.app/api?username=havvanur777&show_icons=true&locale=en"
   alt="havvanur777" /></p>
 
-<p><img align="center"
-  src="https://streak-stats.demolab.com/?user=havvanur777&theme=dark&hide_border=true"
-  alt="havvanur777" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=havvanur777&theme=dark&hide_border=true" alt="havvanur777" /></p>
+
